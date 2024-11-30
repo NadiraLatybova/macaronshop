@@ -1,0 +1,55 @@
+.cards {
+  padding: 40px 0;
+  /* bg */
+
+
+  &__row {
+
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    justify-content: space-between;
+  }
+
+
+
+  &__block {
+flex: calc(50% - 10px);
+    padding: 35px 54px;
+    text-align: center;
+    width: 570px;
+    margin-bottom: 25px;
+    height: 260px;
+  }
+
+  &__img {
+    margin-bottom: 20px;
+  }
+
+  &__items {
+  justify-content: center;
+    display: flex;
+    column-gap: 13px;
+    margin: 0 auto;
+  }
+
+  &__title {
+    color: rgb(41, 41, 41);
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  &__text {
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+  }
+
+}

@@ -1,0 +1,302 @@
+.discount {
+  background: rgba(247, 247, 247, 1);
+  padding-top: 60px;
+  text-align: center;
+
+  &__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 80px;
+  }
+
+  &__title {
+    position: relative;
+    margin-bottom: -80px;
+    display: flex;
+    justify-content: center;
+    opacity: 0;
+    animation: fadeIn 1s forwards 0.5s;
+    font-size: 20px;
+    z-index: 2;
+  }
+
+  & h2 {
+    font-size: 50px;
+    position: relative;
+    z-index: 2;
+  }
+}
+
+.product-item {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  gap: 40px;
+  padding-top: 50px;
+  flex-wrap: wrap;
+  z-index: 12;
+
+  .product-block {
+    background: white;
+    width: 370px;
+    flex: 0 1 auto;
+  }
+
+  .product-title {
+    font-size: 23px;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+  }
+
+  .product-description {
+    font-size: 21px;
+    margin-bottom: 5px;
+    color: #666666;
+    padding: 10px 30px 20px;
+    font-weight: 500;
+  }
+
+  .product-pricing {
+    display: flex;
+    gap: 10px;
+    padding: 0 10px 1px 0;
+    border-top: 1px solid gray;
+
+    .product-original-price {
+      text-decoration: line-through;
+      color: #a0a0a0;
+      font-size: 22px;
+      margin-top: 20px;
+      padding: 0 0 0 30px;
+    }
+
+    .product-discounted-price {
+      font-weight: bold;
+      color: #d9534f;
+      font-size: 26px;
+      padding: 0 50px 10px 30px;
+    }
+  }
+
+  .image {
+    width: 370px;
+    height: 300px;
+  }
+
+  .product-icon {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+
+.buy {
+  display: flex;
+  padding: 0 20px 0 0;
+  margin: 20px 0 0 15px;
+}
+
+.original {
+  text-align: left;
+  border-right: 1px solid grey;
+  padding-right: 20px;
+}
+
+.pagination-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 70px;
+}
+
+.animated-button {
+
+  z-index: 2;
+  position: relative;
+  padding: 14px 28px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  background: linear-gradient(135deg, #ff6ec7, #ffcf6f);
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.4s ease;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  animation: gradientShift 4s ease infinite;
+
+  &:disabled {
+    background: #ccc;
+    color: #666;
+    cursor: not-allowed;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.5s ease;
+  }
+
+  &:hover:not(:disabled)::before {
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+
+  &:hover:not(:disabled) {
+    background: linear-gradient(135deg, #ffcf6f, #ff6ec7);
+    box-shadow: 0 0 15px rgba(255, 110, 199, 0.4), 0 0 25px rgba(255, 207, 111, 0.4);
+    transform: scale(1.05);
+  }
+
+  &:active:not(:disabled) {
+    transform: scale(0.95);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}.flying-images-container {
+
+ }
+
+
+.flying-image1 {
+  position: absolute;
+  animation: fly 20s linear infinite;
+  transform-origin: 50% 50%;
+  width: 140px;
+  height: 140px;
+  z-index: -10;
+
+}
+
+
+.flying{
+  position: absolute;
+  animation: flying 20s linear infinite;
+  transform-origin: 50% 50%;
+  width: 140px;
+  height: 140px;
+  z-index: -10;
+
+}
+@keyframes fly {
+  0% {
+    transform: translate(-950px, 0) rotate(0deg) ;
+  }
+  25% {
+    transform: translate(900px, 1100px) rotate(90deg) ;
+  }
+  50% {
+    transform: translate(-950px, 800px) rotate(180deg) ;
+  }
+  75% {
+    transform: translate(900px, 300px) rotate(270deg) ;
+  }
+  100% {
+    transform: translate(-950px, 0) rotate(360deg) ;
+  }
+}
+@keyframes flying {
+  0% {
+    transform: translate(950px,-0) rotate(0deg) ;
+  }
+  25% {
+    transform: translate( -900px,-1100px) rotate(90deg) ;
+  }
+  50% {
+    transform: translate(950px, -800px) rotate(180deg) ;
+  }
+  75% {
+    transform: translate(-900px, -300px) rotate(270deg) ;
+  }
+  100% {
+    transform: translate( 950px,-0) rotate(360deg) ;
+  }
+}
+
+.flying-image1:nth-child(1) {
+  animation-delay: 0s;
+  z-index: -1;
+  position: absolute;
+
+}
+
+.flying-image1:nth-child(2) {
+  animation-delay: 2s;
+  z-index: -1;
+
+}
+
+.flying-image1:nth-child(3) {
+  animation-delay: 3s;
+  z-index: -1;
+
+}
+
+.flying-image1:nth-child(4) {
+  animation-delay: 5s;
+  z-index: 1;
+}
+
+.flying-image1:nth-child(5) {
+  animation-delay: 6s;
+  z-index: 1;
+}
+
+.flying-image1:nth-child(6) {
+  animation-delay: 0ms;
+  z-index: 1;
+}
+
+
+
+.flying:nth-child(1) {
+  animation-delay: 0s;
+  z-index: 1;
+  position: absolute;
+
+}
+
+.flying:nth-child(2) {
+  animation-delay: 2s;
+  z-index: 1;
+
+}
+
+.flying:nth-child(3) {
+  animation-delay: 3s;
+  z-index: -1;
+
+}
+
+.flying:nth-child(4) {
+  animation-delay: 5s;
+  z-index: 1;
+}
+
+.flying:nth-child(5) {
+  animation-delay: 6s;
+  z-index: 1;
+}
+
+.flying:nth-child(6) {
+  animation-delay: 0ms;
+  z-index: 1;
+}

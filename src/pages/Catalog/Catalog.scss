@@ -1,0 +1,202 @@
+.catalog {
+  padding: 34px 0 87px;
+  background: rgb(247, 247, 247);
+
+  &__row {
+    display: flex;
+    background: rgb(254, 176, 225);
+    overflow: hidden;
+    height: 385px;
+    width: 1180px;
+    padding-right: 80px;
+    margin: 0 auto;
+    justify-content: center;
+
+  }
+
+  &__img {
+    position: relative;
+    bottom: 25px;
+  }
+
+  &__title {
+    color: rgb(41, 41, 41);
+    font-family: Montserrat, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 37px;
+    padding: 11px 0 46px;
+    text-align: center;
+  }
+
+  &__path {
+    padding-bottom: 11px;
+    font-family: Proxima Nova, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+  }
+
+  &__subtitle {
+    padding: 95px 0 17px;
+    color: rgb(41, 41, 41);
+    font-family: Montserrat, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 37px;
+    text-align: center;
+  }
+
+  &__text {
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    padding-bottom: 42px;
+  }
+
+  &__btns {
+    display: flex;
+    column-gap: 9px;
+  }
+
+  &__btn {
+    cursor: pointer;
+    background: transparent;
+    height: 50px;
+    width: 230px;
+    border: 1px solid rgb(78, 157, 211);
+    border-radius: 3px;
+  }
+
+  &__col {
+    padding-top: 35px;
+    display: flex;
+    column-gap: 28px;
+    justify-content: space-between;
+
+    &-row {
+      position: relative;
+      border-radius: 5px;
+      background: rgb(255, 184, 78);
+      height: 341px;
+      width: 369px;
+    }
+    &-row2 {
+      position: relative;
+      border-radius: 5px;
+      background: rgb(254, 176, 225);
+      height: 341px;
+      width: 369px;
+    }
+
+    &-text {
+      color: rgb(255, 255, 255);
+      font-family: Montserrat, sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 22px;
+      text-align: center;
+      z-index: 2;
+      position: relative;
+
+    }
+
+    &-img {
+      padding: 41px 69px 32px;
+    }
+
+    &-fon {
+      bottom: 0;
+      position: absolute;
+    }
+  }
+  &__combo{
+    &-row{
+      display: flex;
+      column-gap: 30px;
+      justify-content: space-between;
+
+    }
+    &-block{
+      background: rgb(255, 255, 255);
+      height: 413px;
+      width: 271px;
+      max-width: 413px;
+
+    }
+    &-price{
+      color: rgb(231, 66, 106);
+      font-family: Montserrat,sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 22px;
+    }
+    &-item{
+      padding: 22px 20px 25px;
+      max-height: 193px;
+    }
+    &-box{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+    }
+    &-carts{
+      color: rgba(0, 0, 0, 0.88);
+      font-family: Montserrat,sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 17px;
+    }
+    &-line{
+      border: 1px solid rgb(237, 237, 240);
+    }
+    &-items{
+      padding-left: 20px;
+    }
+    &-cart{
+      display: flex;
+      column-gap: 12px;
+      align-items: center;
+      padding: 15px 22px 18px;
+    }
+    &-subtitle{
+      color: rgb(41, 41, 41);
+      font-family: Montserrat,sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 22px;
+      text-align: left;
+    }
+    &-desc{
+      color: rgb(41, 41, 41);
+      font-family: Proxima Nova,sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 17px;
+      text-align: left;
+    }
+    &-title{
+      padding: 70px 0 20px;
+      color: rgb(41, 41, 41);
+      font-family: Montserrat,sans-serif;
+      font-size: 30px;
+      font-weight: 600;
+      line-height: 37px;
+      text-align: center;
+    }
+    &-text{
+      color: rgb(41, 41, 41);
+      font-family: Proxima Nova,sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 22px;
+      text-align: center;
+      padding-bottom: 30px;
+    }
+  }
+}

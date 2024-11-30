@@ -1,13 +1,258 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c117df94-9c51-4c7f-a55c-aa883deca259" name="Default Changelist" comment="" />
+    <list default="true" id="c117df94-9c51-4c7f-a55c-aa883deca259" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Categories/CategoryPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Categories/CategoryPage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FilterPrice/FilterPrice.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/CartLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderCenter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderCenter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderTop.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderTop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/MySwiper.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/MySwiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewsSwiper/NewsSwiper.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewsSwiper/newsSwiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductInfo/ProductInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductSlider/ProductSlider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductSlider/ProductSlider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Root/Root.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sort/Sort.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/404.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/Ellipse 21.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/Macarons.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/New.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/boxx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardFon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardFon11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardFon2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardFon3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardFon5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardImg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cardsfon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/care1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/care2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/care3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/care4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cartNum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/cartOne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogCombo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogCombo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogCombo3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogCombo4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogFon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogImg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogImg2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogImg3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/catalogImg5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/color1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/color2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/contactsimg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery-MACORON.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery-MACORON2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/deliveryFon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery__leaves.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery__macoron1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery__macoron2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery__pink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery__transport.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery__yellow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/delivery_vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/deliverymac.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/deliverymac2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/deliverynav.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/deloiver_______maco.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/errorMac.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/errorslice.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/fon9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/footer1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/footer2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/footer3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/footer4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/footer5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/footer6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/guarantee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/guarantee1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/guarantee2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/guarantee3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/happy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/header3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/header4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/header5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/headerCar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/headerImg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/home2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeCard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeCard2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeCard3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeCard4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeCardSvg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeCol.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeParty7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeSvg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/homeSvg1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/hum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/icon7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/lipse 23.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/macaronss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/milka.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/mySwiper1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/news1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/news2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/news4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/newsimg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/ok.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/oneProduct.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/orange.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/place.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/present.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/productCar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/productGift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/registerpng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/sale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/svg1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/svg2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/sweet---cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/tea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/teleg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/assets/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/minCard/minCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/minCard/minCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cards/Cards.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cards/Cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cart/Cart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Cart/Cart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/Catalog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Catalog/Catalog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CategoryCatalog/CategoryCatalog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CategoryCatalog/CategoryCatalog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CheckOut/CheckOut.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CheckOut/CheckOut.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Collect/Collect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Collect/Collect.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Contacts/Contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Contacts/Contacts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Delivery/Delivery.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Delivery/Delivery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Discount/Discount.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Discount/Discount.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Favorites/Favorites.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Favorites/Favorites.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login/Login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/News/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/News/News.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFound/NotFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFound/NotFound.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OneProduct/OneProduct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OneProduct/oneProduct.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Policy/Policy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Policy/Policy.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Print/Print.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Print/Print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Rating/Rating.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register/Register.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Set/Set.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Set/Set.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Sweet/Sweet.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Sweet/Sweet.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Warranty/Warranty.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Warranty/Warranty.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/routing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/carts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/favorites.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/print.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/reviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/sets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="2nVuHvCyP0Y7tj6Te317B66nRvR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +260,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/Print" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/components/assets" />
+      <recent name="$PROJECT_DIR$/src/pages/Cards" />
+      <recent name="$PROJECT_DIR$/src/pages/Home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/assets" />
+      <recent name="$PROJECT_DIR$/src/store/reducers" />
+      <recent name="$PROJECT_DIR$/src/pages/Login" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,10 +294,109 @@
       <option name="presentableId" value="Default" />
       <updated>1729070479453</updated>
       <workItem from="1729070482952" duration="176000" />
+      <workItem from="1729071252004" duration="995000" />
+      <workItem from="1729088339529" duration="480000" />
+      <workItem from="1729088893876" duration="793000" />
+      <workItem from="1729093437221" duration="26000" />
+      <workItem from="1729093560937" duration="4181000" />
+      <workItem from="1729175745996" duration="323000" />
+      <workItem from="1729176112456" duration="632000" />
+      <workItem from="1729176916628" duration="1913000" />
+      <workItem from="1729314696635" duration="4860000" />
+      <workItem from="1729319933577" duration="507000" />
+      <workItem from="1729320487815" duration="19499000" />
+      <workItem from="1729488058250" duration="6465000" />
+      <workItem from="1729611458657" duration="22873000" />
+      <workItem from="1729683399415" duration="7383000" />
+      <workItem from="1729779452969" duration="5665000" />
+      <workItem from="1729838639359" duration="283000" />
+      <workItem from="1729843041967" duration="141000" />
+      <workItem from="1729843950445" duration="2133000" />
+      <workItem from="1729961892510" duration="12603000" />
+      <workItem from="1730099099637" duration="6550000" />
+      <workItem from="1730111246662" duration="7000" />
+      <workItem from="1730115564474" duration="32879000" />
+      <workItem from="1730692233731" duration="733000" />
+      <workItem from="1730872479428" duration="2468000" />
+      <workItem from="1730887643151" duration="6521000" />
+      <workItem from="1730895172078" duration="5467000" />
+      <workItem from="1730914030589" duration="23629000" />
+      <workItem from="1731044965177" duration="1412000" />
+      <workItem from="1731061345275" duration="5289000" />
+      <workItem from="1731072555582" duration="7271000" />
+      <workItem from="1731085175836" duration="181000" />
+      <workItem from="1731133632163" duration="506000" />
+      <workItem from="1731165865900" duration="737000" />
+      <workItem from="1731166906462" duration="15992000" />
+      <workItem from="1731311578467" duration="1019000" />
+      <workItem from="1731320123752" duration="669000" />
+      <workItem from="1731321678956" duration="7104000" />
+      <workItem from="1731483928246" duration="4605000" />
+      <workItem from="1731509721159" duration="7102000" />
+      <workItem from="1731580163335" duration="16249000" />
+      <workItem from="1731651503274" duration="6384000" />
+      <workItem from="1731663529337" duration="7830000" />
+      <workItem from="1731758840359" duration="834000" />
+      <workItem from="1731765939411" duration="8002000" />
+      <workItem from="1731856194989" duration="3283000" />
+      <workItem from="1731864950349" duration="441000" />
+      <workItem from="1731906365358" duration="25485000" />
+      <workItem from="1732026583711" duration="2421000" />
+      <workItem from="1732075127025" duration="768000" />
+      <workItem from="1732095915617" duration="7800000" />
+      <workItem from="1732167449137" duration="14305000" />
+      <workItem from="1732203418224" duration="7104000" />
+      <workItem from="1732250073529" duration="27000" />
+      <workItem from="1732251074622" duration="16990000" />
+      <workItem from="1732343945195" duration="5859000" />
+      <workItem from="1732426034773" duration="11440000" />
+      <workItem from="1732509939966" duration="5463000" />
+      <workItem from="1732591810356" duration="15372000" />
+      <workItem from="1732686695812" duration="19879000" />
+      <workItem from="1732792980738" duration="1395000" />
+      <workItem from="1732803639242" duration="10362000" />
+      <workItem from="1732865359581" duration="11369000" />
+      <workItem from="1732956195387" duration="9067000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1732293212030">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1732293212030" />
+    <state x="184" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.797@0.25.1440.797" timestamp="1731262223581" />
+    <state x="468" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1732533400437">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="468" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1732533400437" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1731072704414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1731072704414" />
+    <state x="545" y="176" key="RollbackChangesDialog" timestamp="1729071563617">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="545" y="176" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1729071563617" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1729486668548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1729486668548" />
+    <state x="529" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1732171559983">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="529" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1732171559983" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1731913526332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1731913526332" />
   </component>
 </project>

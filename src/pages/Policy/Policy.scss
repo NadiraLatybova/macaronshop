@@ -1,0 +1,43 @@
+.policy{
+  padding: 41px 0 92px;
+  background: rgb(247, 247, 247);
+  &__block{
+    padding: 45px 24px 55px;
+    border: 1px solid rgb(237, 237, 240);
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+  }
+  &__path{
+    font-family: Proxima Nova,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+  }
+  &__title{
+    padding: 22px 0 29px;
+    color: rgb(41, 41, 41);
+    font-family: Montserrat,sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 37px;
+    text-align: center;
+  }
+  &__text{
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+  }
+  &__subtitle{
+    color: rgb(41, 41, 41);
+    font-family: Montserrat,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    padding: 30px 0 10px;
+  }
+}

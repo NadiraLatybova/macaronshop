@@ -1,0 +1,118 @@
+.print{
+  padding: 30px;
+  background: rgb(247, 247, 247);
+  &__row{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    align-items: center;
+  }
+  &__img{
+    width: 143px;
+    height: 143px;
+
+  }
+  &__content{
+    width: calc(20% - 25px);
+    display: flex;
+    flex-direction: column; /* Ставим элементы в столбик */
+    align-items: center;
+
+  }
+  &__images{
+    border: 1px solid #EDEDF0;
+    text-align: center;
+    margin: 0 auto 10px;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+  &__control{
+align-items: center;
+    margin: 0 auto;
+    flex-direction: column;
+  }
+  &__quantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__btn{
+    width: 24px;
+    height: 24px;
+    background: #fff;
+    border: 1px solid rgba(41, 41, 41, 0.1);
+    box-sizing: border-box;
+    border-radius: 3px;
+    font-family: "Proxima Nova", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 0;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: 0.2s;
+  }
+
+  &__field{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 0;
+    outline: 0;
+    font-family: "Proxima Nova", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    -moz-appearance: textfield;
+    max-width: 30px;
+    background: transparent;
+
+  }
+  &__sideCart{
+    background: #fff;
+    border: 1px solid #ededf0;
+    border-radius: 5px;
+    height: 215px;
+    width: 276px;
+
+  }
+  &__subtitle{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+
+  }
+  &__autoCom{
+    margin-bottom: 40px;
+  }
+  &__desc{
+    line-height: 1.2;
+    font-family: "Proxima Nova", sans-serif;
+    color: var(--color-text-main);
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  &__title{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    font-size: 30px;
+
+  }
+  &__items{
+    display: flex;
+    justify-content: space-between;
+  }
+  &__psc{
+    padding: 30px;
+  }
+
+
+}

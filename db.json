@@ -1,0 +1,2865 @@
+{
+  "products": [
+    {
+      "category": "Combo sets",
+      "title": "Набор с эклерами “Райский”",
+      "description": "12 макаронc + 3 эклера в коробке. Вкусы ассорти",
+      "price": 1580,
+      "discounted_price": 1990,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/macaron-s-eklerami.png"
+      ],
+      "flavors": [
+        {
+          "name": "Лесной орех",
+          "count": 3
+        },
+        {
+          "name": "Пряная вишня",
+          "count": 3
+        },
+        {
+          "name": "Малина",
+          "count": 3
+        },
+        {
+          "name": "Лимон",
+          "count": 3
+        },
+        {
+          "name": "Лаванда-черника",
+          "count": 1
+        },
+        {
+          "name": "Манго",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        }
+      ],
+      "id": 28
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор на Свадьбу “Изумрудный”",
+      "description": "60 макаронс в коробке. Вкусы ассорти",
+      "price": "6600",
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/svadba.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/10/svadba-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 60
+        }
+      ],
+      "id": 29
+    },
+    {
+      "category": "macaron",
+      "title": "Подарок на Новый год “Счастья”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/podarki-na-novyi-god.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/10/podarki-na-novyi-god-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/10/podarki-na-novyi-god2025.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/10/podarki-na-novyi-god-korobka.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 30
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор на Новый год “Снежинки”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": "5000",
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/podarki-na-novyi-god-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 31
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор на Новый год “Снегири”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/podarki-na-novyi-god-3.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 32
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Пора за подарками”",
+      "description": "9 макаронс в коробке. Вкусы ассорти",
+      "price": 1000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/podarki-na-novyi-god-6.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 9
+        }
+      ],
+      "id": 33
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор на Новый год “Снеговик”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/podarki-na-novyi-god-4.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 34
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Новый 2025 год”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": "5000",
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/podarki-na-novyi-god-4.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/09/podarki-na-novyi-god-5.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 35
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Мужчине моей мечты”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarok-muzhchine.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 36
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Лучший учитель”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-uchitelyam-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 37
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарочный набор для Учителя",
+      "description": "3 эклера + 12 макаронс в коробке. Вкусы ассорти",
+      "price": 1750,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-uchitelyam-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 12
+        }
+      ],
+      "id": 38
+    },
+    {
+      "category": "macaron",
+      "title": "Подарок ко дню Дошкольного работника",
+      "description": "12 штук в коробке. Вкусы ассорти",
+      "price": 1250,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-ko-dnu-vospitatelya-3.png"
+      ],
+      "flavors": [
+        {
+          "name": "Пряная вишня",
+          "count": 3
+        },
+        {
+          "name": "Фисташка",
+          "count": 3
+        },
+        {
+          "name": "Шоколад",
+          "count": 3
+        },
+        {
+          "name": "Ананас",
+          "count": 3
+        }
+      ],
+      "id": 39
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор для Воспитателя",
+      "description": "40 штук в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-vospitatelyam-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 40
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарок для учителя с эклерами",
+      "description": "3 макаронс + 4 эклера в наборе. Вкусы ассорти",
+      "price": 1200,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-na-den-uchitelya-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Фисташка",
+          "count": 2
+        },
+        {
+          "name": "Шоколад",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        }
+      ],
+      "id": 41
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор для учителя “Лес рук”",
+      "description": "22 макаронс в коробке. Вкусы ассорти",
+      "price": 3200,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-na-den-uchitelya-4.png"
+      ],
+      "flavors": [
+        {
+          "name": "Вишня",
+          "count": 3
+        },
+        {
+          "name": "Фисташка",
+          "count": 3
+        },
+        {
+          "name": "Шоколад",
+          "count": 3
+        },
+        {
+          "name": "Ананас",
+          "count": 3
+        },
+        {
+          "name": "Малина",
+          "count": 3
+        },
+        {
+          "name": "Солёная карамель",
+          "count": 3
+        },
+        {
+          "name": "Лесной орех",
+          "count": 4
+        }
+      ],
+      "id": 42
+    },
+    {
+      "category": "macaron",
+      "title": "Подарок на день Дошкольного работника",
+      "description": "20 штук в коробке. Вкусы ассорти",
+      "price": 1650,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-ko-dnu-vospitatelya-4.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 20
+        }
+      ],
+      "id": 43
+    },
+    {
+      "category": "macaron",
+      "title": "Набор десертов “Поздравляю”",
+      "description": "33 десерта в коробке, вкусы ассорти",
+      "price": 3700,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/nabor-desertov-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Малина",
+          "count": 3
+        },
+        {
+          "name": "Смородина",
+          "count": 3
+        },
+        {
+          "name": "Солёная карамель",
+          "count": 3
+        },
+        {
+          "name": "Ананас",
+          "count": 3
+        },
+        {
+          "name": "Фисташка",
+          "count": 3
+        },
+        {
+          "name": "Шоколад",
+          "count": 8
+        },
+        {
+          "name": "Картошка",
+          "count": 10
+        }
+      ],
+      "id": 44
+    },
+    {
+      "category": "Potato dessert",
+      "title": "Подарочный набор “Страшно вкусный Хэллоуин”",
+      "description": "9 штук в коробке. Вкусы ассорти",
+      "price": 1000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/podarochnyj-nabor-strashno-vkusnyj-hellouin.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 9
+        }
+      ],
+      "id": 45
+    },
+    {
+      "category": "macaron",
+      "title": "Подарок на Хэллоуин “Тыковки”",
+      "description": "9 штук в коробке. Вкус шоколад-апельсин",
+      "price": 1000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/podarochnyj-nabor-tykovki.png"
+      ],
+      "flavors": [
+        {
+          "name": "Шоколад-апельсин",
+          "count": 9
+        }
+      ],
+      "id": 46
+    },
+    {
+      "category": "eclair",
+      "title": "Набор десертов “Радуга”",
+      "description": "64 десерта в коробке, вкусы ассорти",
+      "price": 7100,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/09/nabor-desertov-3.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Лесной орех",
+          "count": 6
+        },
+        {
+          "name": "Фисташка",
+          "count": 6
+        },
+        {
+          "name": "Капучино",
+          "count": 6
+        },
+        {
+          "name": "Лимон",
+          "count": 6
+        },
+        {
+          "name": "Ананас",
+          "count": 6
+        },
+        {
+          "name": "Малина",
+          "count": 6
+        },
+        {
+          "name": "Лаванда",
+          "count": 6
+        },
+        {
+          "name": "Эклеры",
+          "count": 8
+        },
+        {
+          "name": "Картошка",
+          "count": 7
+        }
+      ],
+      "id": 47
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор ко Дню учителя",
+      "description": "20 макаронс в коробке. Вкусы ассорти",
+      "price": 1650,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-na-den-uchitelya-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 20
+        }
+      ],
+      "id": 48
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарочный набор для Дошкольного работника",
+      "description": "3 эклера + 12 макаронс в коробке. Вкусы ассорти",
+      "price": 1750,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-vospitatelyam-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 12
+        }
+      ],
+      "id": 49
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор “Ты прекрасна!”",
+      "description": "9 макаронс в коробке. Вкусы ассорти",
+      "price": 1000,
+      "discounted_price": 1190,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/07/nabor_macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 9
+        }
+      ],
+      "id": 50
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Тренер всегда прав”Подарочный набор “Тренер всегда прав”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "discounted_price": 1190,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/trener.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 51
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Happy Day”",
+      "description": "9 макаронс в коробке. Вкусы ассорти",
+      "price": "1000",
+      "discounted_price": 1190,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/07/nabor-macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 9
+        }
+      ],
+      "id": 52
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарок воспитателю",
+      "description": "3 макаронс + 4 эклера в коробке. Вкусы ассорти",
+      "price": 1200,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-ko-dnu-vospitatelya-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Пряная вишня",
+          "count": 2
+        },
+        {
+          "name": "Фисташка",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        }
+      ],
+      "id": 53
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор на День учителя",
+      "description": "3 макаронс + 2 эклера в коробке. Вкусы ассорти",
+      "price": 690,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/09/podarki-na-den-uchitelya-3.png"
+      ],
+      "flavors": [
+        {
+          "name": "Вишня",
+          "count": 2
+        },
+        {
+          "name": "Шоколад",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        }
+      ],
+      "id": 54
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “SUPER-папа”",
+      "description": "20 макаронс в коробке. Вкусы ассорти",
+      "price": 1650,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/den-ottsa-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 20
+        }
+      ],
+      "id": 55
+    },
+    {
+      "category": "marshmallows",
+      "title": "Набор с зефиром “Восторг”",
+      "description": "8 макаронс + 4 зефира в наборе. Вкусы ассорти",
+      "price": 990,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/04/zefir-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-3.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-1.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-13.png"
+      ],
+      "flavors": [
+        {
+          "name": "Соленая карамель",
+          "count": 1
+        },
+        {
+          "name": "Лаванда",
+          "count": 2
+        },
+        {
+          "name": "Ванильный пломбир",
+          "count": 2
+        },
+        {
+          "name": "Лимон",
+          "count": 1
+        },
+        {
+          "name": "Фисташка",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Манго",
+          "count": 2
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        }
+      ],
+      "id": 56
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Ажурный”",
+      "description": "12 макаронс в наборе. Вкусы ассорти",
+      "price": 1100,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/macarons-na-zakaz-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Лаванда",
+          "count": 1
+        },
+        {
+          "name": "Ванильный пломбир",
+          "count": 1
+        },
+        {
+          "name": "Бодрящий капучино",
+          "count": 1
+        },
+        {
+          "name": "Лимон",
+          "count": 1
+        },
+        {
+          "name": "Бабл-гам",
+          "count": 2
+        }
+      ],
+      "id": 57
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Атмосфера””",
+      "description": "24 макаронс в наборе. Вкусы ассорти",
+      "price": 1700,
+      "discounted_price": 1890,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/macarons-na-zakaz-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Лаванда",
+          "count": 8
+        },
+        {
+          "name": "Ванильный пломбир",
+          "count": 4
+        },
+        {
+          "name": "Бодрящий капучино",
+          "count": 6
+        },
+        {
+          "name": "Бабл-гам",
+          "count": 6
+        }
+      ],
+      "id": 58
+    },
+    {
+      "category": "macaron",
+      "title": "Подарок на День Рождения “Цветы”",
+      "description": "60 макаронс в коробке. Вкусы ассорти",
+      "price": 6600,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/01/podarok-na-den-rogdeniya-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/01/macarons.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 60
+        }
+      ],
+      "id": 59
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Уже не персик…”",
+      "description": "20 макаронс в коробке. Вкусы ассорти",
+      "price": 1650,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/podarok-na-den-rojdeniya-5.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 20
+        }
+      ],
+      "id": 60
+    },
+    {
+      "category": "macaron",
+      "title": "Набор “Днюха RESPECT”",
+      "description": "9 макаронс в коробке. Вкусы ассорти",
+      "price": 1000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/podarok-na-den-rojdeniya-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 9
+        }
+      ],
+      "id": 61
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Живи ярко”",
+      "description": "40 макаронс в коробке. Вкусы ассорти",
+      "price": 5000,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/podarok-na-den-rojdeniya-3.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 40
+        }
+      ],
+      "id": 62
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Графиня”",
+      "description": "20 макаронс в коробке. Вкусы ассорти",
+      "price": 1650,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/podarok-na-den-rojdeniya-4.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 20
+        }
+      ],
+      "id": 63
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор с эклерами “Изюминка”",
+      "description": "10 макаронc + 3 эклера в коробке. Вкусы ассорти",
+      "price": 1480,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami-5.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami-6.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami-4.png"
+      ],
+      "flavors": [
+        {
+          "name": "Лесной орех",
+          "count": 2
+        },
+        {
+          "name": "Карамель с морской солью",
+          "count": 2
+        },
+        {
+          "name": "Бодрящий капучино",
+          "count": 2
+        },
+        {
+          "name": "Ванильный пломбир",
+          "count": 2
+        },
+        {
+          "name": "Фисташка",
+          "count": 2
+        },
+        {
+          "name": "Карамель",
+          "count": 2
+        },
+        {
+          "name": "Фисташка",
+          "count": 1
+        }
+      ],
+      "id": 64
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Сладкая парочка”",
+      "description": "12 макаронс в коробке. Вкусы ассорти",
+      "price": 1200,
+      "discounted_price": 1600,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/11/nabor-macarons-3.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 12
+        }
+      ],
+      "id": 65
+    },
+    {
+      "category": "macaron",
+      "title": "Подарочный набор “Любимый Санкт-Петербург”",
+      "description": "12 макаронс в коробке. Вкусы ассорти",
+      "price": 1150,
+      "discounted_price": 1600,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/11/nabor-macarons-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 12
+        }
+      ],
+      "id": 66
+    },
+    {
+      "category": "eclair",
+      "title": "Набор эклеров “Сладкая душа”",
+      "description": "5 вкусов в наборе: карамель, ваниль, манго, смородина, вишня",
+      "price": 1150,
+      "discounted_price": 1600,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/nabor-eklerov-sladkaya-dusha.png"
+      ],
+      "flavors": [
+        {
+          "name": "Вишня",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Манго",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        }
+      ],
+      "id": 67
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер Бабл-гам",
+      "description": "Необычный свежий вкус, в котором ощущается сливочность в сочетании с неповторимым бабл-гамом.",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-13.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-19.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален."
+        }
+      ],
+      "id": 68
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер Лаванда-черника",
+      "description": "Нежный сливочно-лавандовый крем с лёгкой ягодной кислинкой и приятной йогуртовой текстурой.",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-5.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-22.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален."
+        }
+      ],
+      "id": 69
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер Брауни",
+      "description": "Заварное пирожное, в основе которого лежит шоколадный крем, дополненный цедрой апельсина и нотками рома, имеет неповторимый вкус терпкого брауни.",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-14.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-3.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален."
+        }
+      ],
+      "id": 70
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер со вкусом манго",
+      "description": "Заварное пирожное, в основе которого лежит сливочный крем, дополненный пюре спелого манго, имеет неповторимый тропический вкус и сливочные нотки.",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-12.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-20.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален."
+        }
+      ],
+      "id": 71
+    },
+    {
+      "category": "eclair",
+      "title": "MINI Набор эклеров",
+      "description": "3 вкуса в наборе: шоколад, фисташка, манго",
+      "price": 560,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-23.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-22.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-2.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-3.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-4.jpg"
+      ],
+      "flavors": [
+        {
+          "name": "Шоколад",
+          "count": 1
+        },
+        {
+          "name": "Фисташка",
+          "count": 1
+        },
+        {
+          "name": "Манго",
+          "count": 1
+        }
+      ],
+      "id": 72
+    },
+    {
+      "category": "eclair",
+      "title": "Набор эклеров",
+      "description": "5 вкусов в наборе: ванильный, смородиновый, шоколадный, малиновый, карамельный",
+      "price": 860,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-21.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/deserty-na-zakaz-spb-35.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-8.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-7.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-6.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-5.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-9.jpg"
+      ],
+      "flavors": [
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        },
+        {
+          "name": "Шоколад",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        }
+      ],
+      "id": 73
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер со смородиной",
+      "description": "Неповторимый сливочный заварной крем на основе пюре спелой смородины",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-11.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-21.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален"
+        }
+      ],
+      "id": 74
+    },
+    {
+      "category": "eclair",
+      "title": "Малиновый эклер",
+      "description": "Воздушный малиновый крем с натуральными сливками",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-16.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-17.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален"
+        }
+      ],
+      "id": 75
+    },
+    {
+      "category": "eclair",
+      "title": "Ванильный эклер",
+      "description": "Классический лёгкий сливочно-ванильный вкус",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-15.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-18.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален"
+        }
+      ],
+      "id": 76
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер с карамелью",
+      "description": "Нежный и сладкий карамельный крем с лёгкими нотками морской соли",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-8.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален"
+        }
+      ],
+      "id": 77
+    },
+    {
+      "category": "eclair",
+      "title": "Шоколадный эклер",
+      "description": "Восхитительная текстура из тёмного шоколада и сливок",
+      "price": 170,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-10.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-4.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален"
+        }
+      ],
+      "id": 78
+    },
+    {
+      "category": "eclair",
+      "title": "Эклер фисташковый",
+      "description": "Неповторимое сочетание белого шоколада, натуральных сливок и свежеобжаренной фисташки",
+      "price": 180,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-9.png",
+        "https://macaronshop.ru/wp-content/uploads/2021/06/eklery-na-zakaz-spb-24.png"
+      ],
+      "flavors": [
+        {
+          "name": "Безумно вкусные эклеры изготовлены только из натуральных ингредиентов, без химии и консервантов!"
+        },
+        {
+          "name": "В линейке Macaronshop 11 разных вкусов: каждый эклер по-своему уникален"
+        }
+      ],
+      "id": 79
+    },
+    {
+      "category": "Waffle roll",
+      "title": "Трубочка с шоколадной начинкой",
+      "price": 95,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/shokoladnye-trubochki-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/shokoladnye-trubochki-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Вафельная трубочка с шоколадной начинкой навевает теплые воспоминания о беззаботных моментах угощения сладостями. Вкус такой трубочки – это гармоничное сочетание сладкой, немного карамельной вафельной оболочки с богатым и густым шоколадным кремом внутри."
+        },
+        {
+          "name": "Хрустящая вафля с легкими масляными нотками создает идеальный контраст с мягкой, тающей во рту шоколадной начинкой, которая обволакивает вкусовые рецепторы насыщенным шоколадным вкусом с легкими оттенками фундука. Это стоит попробовать!"
+        }
+      ],
+      "id": 80
+    },
+    {
+      "category": "Waffle roll",
+      "title": "Набор трубочек со сгущёнкой",
+      "description": "10 штук в наборе",
+      "price": 950,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/10/4.png",
+        "https://macaronshop.ru/wp-content/uploads/2022/10/8.png"
+      ],
+      "flavors": [
+        {
+          "name": "Трубочки со сгущёнкой",
+          "count": "10 штук"
+        }
+      ],
+      "id": 81
+    },
+    {
+      "category": "Waffle roll",
+      "title": "Трубочка со сгущёнкой",
+      "description": "10 штук в наборе",
+      "price": 95,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/10/8.png"
+      ],
+      "flavors": [
+        {
+          "name": "В составе наших вафель — натуральное масло и яйца. Мы не используем яичный желток и сухие порошки, не используем консерванты, разрыхлители и загустители."
+        },
+        {
+          "name": "В составе начинки: натуральная сгущёнка, масло и молоко. То есть наши трубочки приготовлены так, как если бы готовила их ваша бабушка"
+        }
+      ],
+      "id": 82
+    },
+    {
+      "category": "marshmallows",
+      "title": "Набор с зефиром “Белиссимо”",
+      "description": "8 штук в наборе. Вкусы ассорти",
+      "price": 95,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/04/zefir-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-2.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-11.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-3.jpg"
+      ],
+      "flavors": [
+        {
+          "name": "Манго",
+          "count": 2
+        },
+        {
+          "name": "Смородина",
+          "count": 3
+        },
+        {
+          "name": "Малина",
+          "count": 3
+        }
+      ],
+      "id": 83
+    },
+    {
+      "category": "marshmallows",
+      "title": "Зефир со вкусом “Смородина”",
+      "description": "1 штука в корексе. Вкус смородина",
+      "price": 90,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-smorodina.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-11.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-3.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-8.png"
+      ],
+      "flavors": [
+        {
+          "name": "Зефир – это классический десерт, который отличается своей легкой, воздушной текстурой и нежным сладким вкусом. Его мягкая и пористая консистенция буквально тает во рту."
+        },
+        {
+          "name": "Вкус зефира со смородиной гармонично сочетает сладость с легкой кислинкой и характерной терпкостью смородины, делая его необычайно ароматным и запоминающимся. Устоять перед ним просто невозможно!"
+        },
+        {
+          "name": "Малина",
+          "count": 3
+        }
+      ],
+      "id": 84
+    },
+    {
+      "category": "marshmallows",
+      "title": "Зефир со вкусом “Малина”",
+      "description": "1 штука в корексе. Вкус малина",
+      "price": 90,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-4.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-13.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/zefir-na-zakaz-8.png"
+      ],
+      "flavors": [
+        {
+          "name": "Зефир – это классический десерт, который отличается своей легкой, воздушной текстурой и нежным сладким вкусом. Его мягкая и пористая консистенция буквально тает во рту."
+        },
+        {
+          "name": "Зефир с малиной обладает сладким, но одновременно легко узнаваемым фруктовым вкусом малины, который прекрасно гармонирует с сахарной основой десерта. Устоять перед ним просто невозможно!"
+        }
+      ],
+      "id": 85
+    },
+    {
+      "category": "cake pops",
+      "title": "Набор кейк-попсов",
+      "description": "16 штук в коробке, вкусы ассорти",
+      "price": 1490,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/10/cake_pops-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2022/10/cake_pops_2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Шоколад",
+          "count": 6
+        },
+        {
+          "name": "Апельсин-манго",
+          "count": 5
+        },
+        {
+          "name": "Лесные ягоды",
+          "count": 5
+        }
+      ],
+      "id": 86
+    },
+    {
+      "category": "cake pops",
+      "title": "MINI Набор кейк-попсов",
+      "description": "6 штук в коробке, вкусы ассорти",
+      "price": 1490,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/03/caka-pops_3.png",
+        "https://macaronshop.ru/wp-content/uploads/2022/10/cake_pops_2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Шоколад",
+          "count": 2
+        },
+        {
+          "name": "Апельсин-манго",
+          "count": 2
+        },
+        {
+          "name": "Лесные ягоды",
+          "count": 2
+        }
+      ],
+      "id": 87
+    },
+    {
+      "category": "Potato dessert",
+      "title": "Набор пирожных картошка",
+      "description": "Ароматные и нежные пирожные в наборе, 12 штук",
+      "price": 750,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-31.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2023/03/deserty-na-zakaz-spb-30.jpg",
+        "https://macaronshop.ru/wp-content/uploads/2022/10/pirojnoe-kartoshka-1.png",
+        "https://macaronshop.ru/wp-content/uploads/2022/10/pirojnoe-kartoshka-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Вишня",
+          "count": 12
+        }
+      ],
+      "id": 88
+    },
+    {
+      "category": "Potato dessert",
+      "title": "MINI набор пирожных картошка",
+      "description": "3 штуки в корексе, вкус вишня",
+      "price": 250,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/03/kartoshka-na-zakaz-4.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/kartoshka-na-zakaz-5.png",
+        "https://macaronshop.ru/wp-content/uploads/2024/03/kartoshka-na-zakaz-6.png"
+      ],
+      "flavors": [
+        {
+          "name": "Вишня",
+          "count": 3
+        }
+      ],
+      "id": 89
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор “Папа – это вам не мама”",
+      "description": "3 макаронс + 4 эклера в наборе. Вкусы ассорти",
+      "price": 1200,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2024/10/den-ottsa-3.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 3
+        }
+      ],
+      "id": 90
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарок ко дню рождения “Хеппи Бёздей”",
+      "description": "20 макаронс в коробке. Вкусы ассорти",
+      "price": 1650,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/10/podarki-na-den-rojhdeniya-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Ассорти",
+          "count": 20
+        }
+      ],
+      "id": 91
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарок на день рождения “Не 18”",
+      "description": "3 макаронс + 4 эклера в наборе. Вкусы ассорти",
+      "price": 1200,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/10/podarki-na-den-rojhdeniya-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Макаронс ассорти",
+          "count": 3
+        },
+        {
+          "name": "Шоколад",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        },
+        {
+          "name": "Манго",
+          "count": 1
+        }
+      ],
+      "id": 92
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор с эклерами “Услада”",
+      "description": "10 макаронc + 3 эклера в коробке. Вкусы ассорти",
+      "price": 1480,
+      "discounted_price": 1890,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Бодрящий капучино",
+          "count": 2
+        },
+        {
+          "name": "Лавандовый прованс",
+          "count": 2
+        },
+        {
+          "name": "Ванильный пломбир",
+          "count": 2
+        },
+        {
+          "name": "Малина",
+          "count": 2
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        }
+      ],
+      "id": 93
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор-комбо “С Днем рождения”",
+      "description": "3 макаронс + 4 эклера в коробке. Вкусы ассорти",
+      "price": 1200,
+      "discounted_price": 1390,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2022/11/podarok_na_den_rojdeniya.png"
+      ],
+      "flavors": [
+        {
+          "name": "Шоколад",
+          "count": 2
+        },
+        {
+          "name": "Фисташка",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        }
+      ],
+      "id": 94
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор-комбо “Sweet”",
+      "description": "3 макаронс + 2 эклера в коробке. Вкусы ассорти",
+      "price": 690,
+      "discounted_price": 890,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/08/podarok-na-den-rojdeniya-2.png"
+      ],
+      "flavors": [
+        {
+          "name": "Шоколад",
+          "count": 2
+        },
+        {
+          "name": "Фисташка",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        }
+      ],
+      "id": 95
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор с эклерами “Конфетти”",
+      "description": "10 макаронc + 3 эклера в коробке. Вкусы ассорти",
+      "price": 1480,
+      "discounted_price": 1890,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami-2.png",
+        "https://macaronshop.ru/wp-content/uploads/2023/04/macaron-s-eklerami-1.png"
+      ],
+      "flavors": [
+        {
+          "name": "Чёрная смородина",
+          "count": 2
+        },
+        {
+          "name": "Мята",
+          "count": 2
+        },
+        {
+          "name": "Ванильный пломбир",
+          "count": 2
+        },
+        {
+          "name": "Манго-маракуйя",
+          "count": 2
+        },
+        {
+          "name": "Лавандовый прованс",
+          "count": 2
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        }
+      ],
+      "id": 96
+    },
+    {
+      "category": "Combo sets",
+      "title": "Подарочный набор “С днем рождения, котик!”",
+      "description": "3 макаронс + 4 эклера в коробке. Вкусы ассорти",
+      "price": 1200,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/03/kotik.jpg"
+      ],
+      "flavors": [
+        {
+          "name": "Фисташка",
+          "count": 2
+        },
+        {
+          "name": "Смородина",
+          "count": 1
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        },
+        {
+          "name": "Малина",
+          "count": 1
+        }
+      ],
+      "id": 97
+    },
+    {
+      "category": "Combo sets",
+      "title": "Набор для джентльменов “С днём рождения”",
+      "description": "3 макаронс + 2 эклера в коробке. Вкусы ассорти",
+      "price": 690,
+      "discounted_price": 890,
+      "images": [
+        "https://macaronshop.ru/wp-content/uploads/2023/03/podarki.jpg"
+      ],
+      "flavors": [
+        {
+          "name": "Лесной орех",
+          "count": 1
+        },
+        {
+          "name": "Шоколад",
+          "count": 2
+        },
+        {
+          "name": "Карамель",
+          "count": 1
+        },
+        {
+          "name": "Ваниль",
+          "count": 1
+        }
+      ],
+      "id": 98
+    }
+  ],
+  "users": [
+    {
+      "email": "nadiralatybova@gmail.com",
+      "password": "$2a$10$/vsJDRW2VVr4s0LmHx2Yjec0aKWzdu/JerOSXS0/pOV9SC2Pb0tti",
+      "name": "nadira",
+      "age": "20",
+      "id": 1
+    },
+    {
+      "email": "nadyaLatybova@gmail.com",
+      "password": "$2a$10$efnsBoxXcfyXcqW2xe06f.F4XGUwiIIEgg9FHsV6xRMhDAV7boLR6",
+      "name": "nadira",
+      "age": "20",
+      "tel": "+79033334455",
+      "id": 2
+    }
+  ],
+  "logo": [
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool.png",
+      "id": 1
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-2.png",
+      "id": 2
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-3.png",
+      "id": 3
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-4.png",
+      "id": 4
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-5.png",
+      "id": 5
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-6.png",
+      "id": 6
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-7.png",
+      "id": 7
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-8.png",
+      "id": 8
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-9.png",
+      "id": 9
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-10.png",
+      "id": 10
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-11.png",
+      "id": 11
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-12.png",
+      "id": 12
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-13.png",
+      "id": 13
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-14.png",
+      "id": 14
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-15.png",
+      "id": 15
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-16.png",
+      "id": 16
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-17.png",
+      "id": 17
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-18.png",
+      "id": 18
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-19.png",
+      "id": 19
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-20.png",
+      "id": 20
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-21.png",
+      "id": 21
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-23.png",
+      "id": 22
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-24.png",
+      "id": 23
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-25.png",
+      "id": 24
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-26.png",
+      "id": 25
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-27.png",
+      "id": 26
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-28.png",
+      "id": 27
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-29.png",
+      "id": 28
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-30.png",
+      "id": 29
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-31.png",
+      "id": 30
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-32.png",
+      "id": 31
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-33.png",
+      "id": 32
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-34.png",
+      "id": 33
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-35.png",
+      "id": 34
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-36.png",
+      "id": 35
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-37.png",
+      "id": 36
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-38.png",
+      "id": 37
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-39.png",
+      "id": 38
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-40.png",
+      "id": 39
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-41.png",
+      "id": 40
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-42.png",
+      "id": 41
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-43.png",
+      "id": 42
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-44.png",
+      "id": 43
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-45.png",
+      "id": 44
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-46.png",
+      "id": 45
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-47.png",
+      "id": 46
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-48.png",
+      "id": 47
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-49.png",
+      "id": 48
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-50.png",
+      "id": 49
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-51.png",
+      "id": 50
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-52.png",
+      "id": 51
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-53.png",
+      "id": 52
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-54.png",
+      "id": 53
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-55.png",
+      "id": 54
+    },
+    {
+      "category": "1 september",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/shcool-56.png",
+      "id": 55
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-2.png",
+      "id": 56
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-3.png",
+      "id": 57
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-4.png",
+      "id": 58
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-5.png",
+      "id": 59
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-6.png",
+      "id": 60
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-7.png",
+      "id": 61
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-8.png",
+      "id": 62
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-9.png",
+      "id": 63
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-10.png",
+      "id": 64
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-11.png",
+      "id": 65
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-12.png",
+      "id": 66
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-13.png",
+      "id": 67
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-14.png",
+      "id": 68
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-15.png",
+      "id": 69
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-16.png",
+      "id": 70
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-17.png",
+      "id": 71
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-18.png",
+      "id": 72
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-19.png",
+      "id": 73
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-20.png",
+      "id": 74
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-21.png",
+      "id": 75
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-22.png",
+      "id": 76
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-23.png",
+      "id": 77
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-24.png",
+      "id": 78
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-25.png",
+      "id": 79
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-26.png",
+      "id": 80
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-27.png",
+      "id": 81
+    },
+    {
+      "category": "23 febraury",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/23-fevralya-28.png",
+      "id": 82
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-16-1.png",
+      "id": 83
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-7.png",
+      "id": 84
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-1-1.png",
+      "id": 85
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-2-1.png",
+      "id": 86
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-3-1.png",
+      "id": 87
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-4-1.png",
+      "id": 88
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-5-1.png",
+      "id": 89
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-6-1.png",
+      "id": 90
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-7-1.png",
+      "id": 91
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-8-1.png",
+      "id": 92
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-9-1.png",
+      "id": 93
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-10-1.png",
+      "id": 94
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-11-1.png",
+      "id": 95
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-12-1.png",
+      "id": 96
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-13-1.png",
+      "id": 97
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-14-1.png",
+      "id": 98
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/happy-valentines-day-15-1.png",
+      "id": 99
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/06/doggy.jpg",
+      "id": 100
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/06/pink.jpg",
+      "id": 101
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/06/catf.jpg",
+      "id": 102
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/06/loveis.jpg",
+      "id": 103
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/06/mylove.jpg",
+      "id": 104
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-2.png",
+      "id": 105
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-3.png",
+      "id": 106
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-4.png",
+      "id": 107
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-5.png",
+      "id": 108
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-6.png",
+      "id": 109
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-8.png",
+      "id": 110
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-9.png",
+      "id": 111
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-10.png",
+      "id": 112
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-11.png",
+      "id": 113
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-12.png",
+      "id": 114
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-13.png",
+      "id": 115
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-14.png",
+      "id": 116
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-1.png",
+      "id": 117
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-2.png",
+      "id": 118
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-3.png",
+      "id": 119
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-2.png",
+      "id": 120
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-3.png",
+      "id": 121
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-5.png",
+      "id": 122
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-6.png",
+      "id": 123
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-7.png",
+      "id": 124
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-8.png",
+      "id": 125
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-9.png",
+      "id": 126
+    },
+    {
+      "category": "love",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-animals-1.png",
+      "id": 127
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-7-1.png",
+      "id": 128
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-12-300x300-1.png",
+      "id": 129
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-13-300x300-1.png",
+      "id": 130
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-14-300x300-1.png",
+      "id": 131
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-9-300x300-1.png",
+      "id": 132
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-15.png",
+      "id": 133
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is.png",
+      "id": 134
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-2.png",
+      "id": 135
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-3.png",
+      "id": 136
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-4.png",
+      "id": 137
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-8.png",
+      "id": 138
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-10.png",
+      "id": 139
+    },
+    {
+      "category": "love is..",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/love-is-11.png",
+      "id": 140
+    },
+    {
+      "category": "butterfly",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/babochki-2-1.png",
+      "id": 141
+    },
+    {
+      "category": "butterfly",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/babochki.png",
+      "id": 142
+    },
+    {
+      "category": "butterfly",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/babochki-4.png",
+      "id": 143
+    },
+    {
+      "category": "butterfly",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/babochki-4.png",
+      "id": 144
+    },
+    {
+      "category": "butterfly",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/babochki-5.png",
+      "id": 145
+    },
+    {
+      "category": "butterfly",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/babochki-6.png",
+      "id": 146
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-5.png",
+      "id": 147
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-6.png",
+      "id": 148
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-7.png",
+      "id": 149
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-8.png",
+      "id": 151
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/vyidesh-za-menya-1.png",
+      "id": 152
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-20.png",
+      "id": 153
+    },
+    {
+      "category": "marry me",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/love-21.png",
+      "id": 154
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-5-1.png",
+      "id": 155
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-6-1.png",
+      "id": 156
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-7-1.png",
+      "id": 157
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-8-1.png",
+      "id": 158
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-9-1.png",
+      "id": 159
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-10-1.png",
+      "id": 160
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-11-1.png",
+      "id": 161
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-12-1.png",
+      "id": 162
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-13-1.png",
+      "id": 163
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-14-1.png",
+      "id": 164
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-15-1.png",
+      "id": 165
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-16-1.png",
+      "id": 166
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-1-1.png",
+      "id": 167
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-2-1.png",
+      "id": 168
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-3-1.png",
+      "id": 169
+    },
+    {
+      "category": "together",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/07/bez-imeni-4-1.png",
+      "id": 170
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-13.png",
+      "id": 171
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-14.png",
+      "id": 172
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-15.png",
+      "id": 173
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-16.png",
+      "id": 174
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-17.png",
+      "id": 175
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-18.png",
+      "id": 176
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-19.png",
+      "id": 177
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-21.png",
+      "id": 178
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-25.png",
+      "id": 179
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-29.png",
+      "id": 180
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-4-1.png",
+      "id": 181
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-5-1.png",
+      "id": 182
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-6-1.png",
+      "id": 183
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-7-1.png",
+      "id": 184
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-8-1.png",
+      "id": 185
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-9-1.png",
+      "id": 186
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-10-1.png",
+      "id": 187
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-11-1.png",
+      "id": 188
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-12-1.png",
+      "id": 189
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-20-300x300-1.png",
+      "id": 190
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-23-300x300-1.png",
+      "id": 191
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-22-300x300-1.png",
+      "id": 192
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-24-300x300-1.png",
+      "id": 193
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-26-300x300-1.png",
+      "id": 194
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-27-300x300-1.png",
+      "id": 195
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-28-300x300-1.png",
+      "id": 196
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-30-300x300-1.png",
+      "id": 197
+    },
+    {
+      "category": "for girls",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/girls-3-1.png",
+      "id": 198
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik.png",
+      "id": 199
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-2.png",
+      "id": 200
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-3.png",
+      "id": 201
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-4.png",
+      "id": 202
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-5.png",
+      "id": 203
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-6.png",
+      "id": 204
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-7.png",
+      "id": 205
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-8.png",
+      "id": 206
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-9.png",
+      "id": 207
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-10.png",
+      "id": 208
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-11.png",
+      "id": 209
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-12.png",
+      "id": 210
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-13.png",
+      "id": 211
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-14.png",
+      "id": 212
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-15.png",
+      "id": 213
+    },
+    {
+      "category": "hen-party",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/devichnik-16.png",
+      "id": 214
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-3.png",
+      "id": 215
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-4.png",
+      "id": 216
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-5.png",
+      "id": 217
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-6.png",
+      "id": 218
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-7.png",
+      "id": 219
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-8.png",
+      "id": 220
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-9.png",
+      "id": 221
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik.png",
+      "id": 222
+    },
+    {
+      "category": "teacher's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2021/08/sadik-2.png",
+      "id": 223
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/medik-1.png",
+      "id": 224
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/medik-2.png",
+      "id": 225
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/medik-3.png",
+      "id": 226
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/mama-5.png",
+      "id": 227
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/mama-6.png",
+      "id": 228
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/mama-7.png",
+      "id": 229
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/mama-8.png",
+      "id": 230
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/mama-9.png",
+      "id": 231
+    },
+    {
+      "category": "doctor's day",
+      "img": "https://macaronshop.ru/wp-content/uploads/2022/06/mama-10.png",
+      "id": 232
+    }
+  ],
+  "categories": []
+}

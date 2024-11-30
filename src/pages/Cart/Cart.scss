@@ -1,0 +1,242 @@
+.cart {
+  padding: 40px;
+  background-color: #f9f9f9;
+
+  &__container {
+    display: flex;
+    gap: 20px;
+
+
+  }
+  &__menu{
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-bottom: 1px solid #ededf0;
+    column-gap: 20px;
+    justify-content: space-between;
+    padding: 30px 15px;
+
+    &-title{
+
+      font-family: "Proxima Nova", sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+    }
+    &-price{
+      color: #e7426a;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 600;
+      font-size: 18px;
+    }
+  }
+
+  &__path {
+    justify-content: center;
+    display: flex;
+    column-gap: 5px;
+    font-size: 16px;
+    line-height: 1.2;
+    font-family: "Proxima Nova", sans-serif;
+    margin-bottom: 40px;
+  }
+
+  &__link {
+    color: #4e9dd3;
+    text-decoration: none;
+
+  }
+
+  &__items {
+    flex: 2;
+    max-width: calc(100% - 496px);
+    border-radius: 50px;
+
+
+  }
+
+  &__summary {
+
+    width: 476px; /* Фиксированная ширина */
+    height: 314px; /* Фиксированная высота */
+    background-color: #fff; /* Светлый фон */
+    border: 1px solid #ddd; /* Граница для выделения */
+    border-radius: 8px; /* Скругленные углы */
+    padding: 20px; /* Отступы внутри блока */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    &-text{
+      margin: 17px 0 4px;
+      font-family: "Proxima Nova", sans-serif;
+      font-weight: 300;
+
+    }
+  }
+
+  &__title {
+    font-size: 26px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+  }
+
+  &__item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background: #fff;
+    border-bottom: 1px solid #ededf0;
+    column-gap: 20px;
+
+
+    &-img {
+      width: 87px;
+      height: 93px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    &-title {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 600;
+      margin-bottom: 0.5em;
+      font-size: 14px;
+      max-width: 250px;
+    }
+
+    &-price {
+      font-size: 16px;
+      font-weight: bold;
+      margin-right: 20px;
+      color:#e7426a ;
+    }
+
+    &-details {
+      flex: 1;
+
+    }
+
+
+    &-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+
+
+      .cart__item-btn {
+        width: 24px;
+        height: 24px;
+        background: #fff;
+        border: 1px solid rgba(41, 41, 41, 0.1);
+        box-sizing: border-box;
+        border-radius: 3px;
+        font-family: "Proxima Nova", sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 0;
+        cursor: pointer;
+        margin: 0 5px;
+        transition: 0.2s;
+
+        &:hover {
+          background: #e7426a;
+        }
+      }
+
+      .cart__item-quantity {
+        font-size: 16px;
+        font-weight: bold;
+      }
+    }
+
+
+    &-remove {
+      background: none;
+      border: none;
+      color: #e7426a;
+      font-size: 18px;
+      cursor: pointer;
+
+      &:hover {
+        color: #e7426a;
+      }
+    }
+  }
+
+  &__summary-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+  }
+
+  &__summary-total {
+    padding: 16px 0 !important;
+    margin-top: 15px !important;
+    border-top: 1px solid #EDEDF0;
+    border-bottom: 1px solid #EDEDF0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__summary-price{
+    font-size: 16px;
+    line-height: 1.2;
+    font-family: "Proxima Nova", sans-serif;
+  }
+  &__summary-sum{
+    color: #e7426a;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+  }
+
+  &__promo {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+
+    &-input {
+      flex: 1;
+      padding: 10px;
+      border: 1px solid #eaeaea;
+      border-radius: 4px;
+    }
+
+    &-btn {
+      background: #e7426a;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+
+
+      &:hover {
+        background: #e7426a;
+      }
+    }
+  }
+
+  &__checkout-btn {
+   min-width: 230px;
+    padding: 15px;
+    background: #e7426a;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+
+
+    &:hover {
+      background: #e7426a;
+    }
+  }
+}

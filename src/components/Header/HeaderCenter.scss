@@ -1,0 +1,64 @@
+.headerCenter {
+  padding: 19px 140px 16px;
+
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 30px;
+  }
+
+  &__left,
+  &__right {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+  }
+
+  &__sale, &__gift {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+  }
+
+  &__link {
+    color: rgb(43, 20, 20);
+    font-family: Proxima Nova, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline red;
+      text-underline-offset: 20px;
+    }
+  }
+
+  &__catalog {
+    position: relative; // Для позиционирования выпадающего меню
+  }
+
+  &__dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    width: 200px;
+
+    &-item {
+      padding: 10px;
+      cursor: pointer;
+      font-family: Proxima Nova, sans-serif;
+      font-size: 14px;
+
+      &:hover {
+        background-color: #f4f4f4;
+      }
+    }
+  }
+}

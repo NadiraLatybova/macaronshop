@@ -1,0 +1,31 @@
+
+
+.mySwiper4{
+height: 150px;
+  width: 576px;
+
+}
+.mySwiper3{
+  height: 691px;
+  width: 576px;
+  margin-bottom: 15px;
+
+}
+
+.mySwiper3 .swiper-slide {
+  transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transition */
+}
+
+.mySwiper3 .swiper-slide:hover {
+  transform: scale(1.05);
+}
+
+.mySwiper4 .swiper-slide {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.mySwiper4 .swiper-slide:hover {
+  transform: scale(1.1);
+}
+
+

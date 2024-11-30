@@ -1,0 +1,27 @@
+
+
+.categoryPage {
+  padding: 20px;
+
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .ol {
+    position: absolute;
+    z-index: -1; /* Отправляем фон под основной контент */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat; /* Избегаем повторения изображения */
+    background-size: cover; /* Растягиваем картинку на весь блок */
+    background-position: center;
+  }
+}

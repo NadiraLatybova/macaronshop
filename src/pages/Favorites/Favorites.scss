@@ -1,0 +1,26 @@
+.favorites {
+  background: rgb(247, 247, 247);
+  padding: 70px;
+
+
+
+  &__title {
+    font-family: Proxima Nova, sans-serif;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 70px;
+  }
+
+
+  &__empty {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    font-size: 34px;
+    padding: 200px;
+    font-weight: 900;
+    margin: 0 auto;
+    color: rgb(213, 79, 108);
+  }
+
+}

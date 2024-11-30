@@ -1,0 +1,87 @@
+.footer{
+  padding: 58px 0 32px;
+  background: rgb(235, 237, 238);
+  &__row{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+  }
+  &__col{
+    display: flex;
+    column-gap: 20px;
+
+  }
+ &__img{
+   align-items: center;
+  padding-bottom: 15px;
+ display: flex;
+ margin: 0 auto;
+ }
+  &__item{
+    margin-bottom: 28px;
+  }
+  &__loc{
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+  }
+  &__text{
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 110%;
+    text-align: center;
+  }
+  &__info{
+    display: flex;
+    column-gap: 30px;
+
+  }
+  &__title{
+    color: rgb(41, 41, 41);
+    font-family: Montserrat,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: left;
+    text-transform: uppercase;
+    padding-bottom: 18px;
+  }
+  &__link{
+    display: flex;
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    text-decoration: none;
+  }
+  &__tel{
+    color: rgb(41, 41, 41);
+    font-family: Montserrat,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: right;
+    margin-bottom: 5px;
+  }
+  &__time{
+    color: rgb(41, 41, 41);
+    font-family: Proxima Nova,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: right;
+    margin-bottom: 70px;
+  }
+  &__icon{
+    display: flex;
+    align-items: center;
+    column-gap: 18px;
+  }
+}
